@@ -1,6 +1,6 @@
 from pathlib import Path
 
-POEM = "I asked for the key,\nnot the door.\nShe laughed, handed me both.\nThe lock was never locked."
+POEM = "I knocked for sugar,\nborrowed one cup.\nShe gave me two—\nand the courage to ask again."
 
 
 def main():
